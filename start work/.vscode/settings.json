@@ -1,0 +1,7 @@
+{
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "aiXcoder.showTrayIcon": true,
+    "figma.autocompleteBlocks": true,
+    "files.autoSave": "afterDelay",
+    "livePreview.defaultPreviewPath": "/index.html"
+}
